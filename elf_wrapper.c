@@ -1,4 +1,4 @@
-#include "elf_runner.h"
+#include "elf_wrapper.h"
 
 #include <errno.h>
 #include <stdlib.h>

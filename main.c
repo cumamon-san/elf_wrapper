@@ -1,4 +1,4 @@
-#include "elf_runner.h"
+#include "elf_wrapper.h"
 
 static const unsigned char data[] = {
 #   include "payload.txt"

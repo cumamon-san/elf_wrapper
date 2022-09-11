@@ -1,5 +1,5 @@
 PAYLOAD_SRC = prog.c
-LOADER_SRC = main.c elf_runner.c
+LOADER_SRC = main.c elf_wrapper.c
 
 HDRS = $(wildcard *.h)
 

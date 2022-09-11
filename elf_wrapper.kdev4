@@ -1,4 +1,4 @@
 [Project]
 CreatedFrom=Makefile
 Manager=KDevCustomMakeManager
-Name=elf_runner
+Name=elf_wrapper
